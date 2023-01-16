@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Review notes and study commands etc.
+Review notes about HTML, CSS, Java and study commands etc. 
 
 ## Credits
 
